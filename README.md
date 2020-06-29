@@ -12,7 +12,7 @@ in this role including both configuration and fact collection.
 ## Functions
 
 This section provides a list of the available functions that are included
-in this role.  Any of the provided functions can be implemented in Ansible
+in this role. Any of the provided functions can be implemented in Ansible
 playbooks to perform automation activities on Cisco iosxr devices.
 
 Please see the documentation link for each function for details on how to use
